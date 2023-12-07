@@ -232,7 +232,7 @@ body {
    /* Define Hero Styles */
     
    .hero-container {
-       background-image: url("/images/HeroImage.jpg");
+       background-image: url("./images/HeroImage.jpg");
        background-size: cover;
        display: flex;
        align-items: center;
